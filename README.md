@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello World! I'm Mike.
 
+I'm a software engineer in the Seattle area with a passion for making life simpler with technology.
+
+I believe the most impactful thing an engineer can do is had the tech fade into the background while the user gets a full featured experience.  Whether that's through allowing them to perform complex actions with the click of a mouse or a wave of the hand.
+
+As developers we have great power and a great responsibility to grant the every-day user the superpowers of a god-tier tech guru without a barrier to entry.
 <!--
 **mike-gustafson/mike-gustafson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

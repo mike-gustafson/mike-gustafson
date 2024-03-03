@@ -1,7 +1,7 @@
 Hi 👋 I'm Mike
 ===============================
 
-I'm a software engineer who recently graduated from General Assemblies Softare Engineering immersive program. I have a passion for merging technology seemlessly into everyday life, creating user experiences that focus on surprising and delighting without having a barrier to entry. Technology should never be inconventient to use and is a tool to achieve an experience, not the experience itself.
+I'm a software engineer who recently graduated from General Assembly's Software Engineering immersive program. I have a passion for merging technology seemlessly into everyday life, creating user experiences that focus on surprising and delighting without having a barrier to entry. Technology should never be inconventient to use and is a tool to achieve an experience, not the experience itself.
 
 * 🌍  I'm based in Tacoma, WA
 * ✉️  You can contact me at [Gustafson.M@gmail.com](mailto:Gustafson.M@gmail.com)
